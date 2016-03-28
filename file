@@ -8,4 +8,8 @@ this is the aa branch
 
 this is from bb
 
+<<<<<<< HEAD
+cc from atom
+=======
 master edit github
+>>>>>>> master
